@@ -1,24 +1,23 @@
 <div align="center">
     <h1>Potência Tech powered by iFood | Ciência de Dados com Python</h1>
 </div>
-
+<br><br>
 <div align="center">
     <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
     <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
     <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
 </div>
-
+<br><br>
 <div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="" style="margin: 25px">
 </div>
-
+<br><br>
 <div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
 </div>     
-
+<br><br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
-     <img src="https://hermes.dio.me/skills/885672d4-2180-417c-a3c1-d866f3e47bdb.webp " width="40" height="40" hspace="10" style="margin: 10px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>     
 </div>
 <br>
 
