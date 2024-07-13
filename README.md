@@ -1,84 +1,86 @@
 <div align="center">
-    <h1>Potência Tech powered by iFood | Ciência de Dados com Python</h1>
+    <h1>Criando um Sistema Bancário com Python</h1>
 </div>
 <br><br>
+
 <div align="center">
-    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
-    <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
-    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
-</div>
-<br><br>
-<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="" style="margin: 25px">
-</div>
-<br><br>
-<div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
+    <img src="assets\images\bootcamp-dio.png" width="300" hspace="10">
 </div>     
 <br><br>
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
-    <img src="assets\images\MachineLearning-logo.png" width="40" height="40" hspace="10" style="margin: 10px"/>       
-</div>
-<br>
 
-</p>
 <div align="center">
-    <img src="https://img.shields.io/badge/IN%C3%8DCIO-01%2F07%2F2023-green" hspace="5"/>
-    <img src="https://img.shields.io/badge/T%C3%89RMINO-03%2F09%2F2023-red" hspace="5"/>
+    <img align="center" src="assets\images\PotenciaTech-logo.png" height="80">
+    <img align="center" src="assets\images\ifood-logo.png" height="60">
+    <img align="center" src="assets\images\vivo-logo.png" height="80" style="margin-left: 30px">
+</div>
+<br><br>
+
+<div align="center">
+    <img align="center" src="assets\images\bootcamp-ifood.png" height="150" hspace="20">
+    <img align="center" src="assets\images\bootcamp-vivo.png" height="200" hspace="20">
+</div>
+<br><br>
+
+<div align="center">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80">          
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="110">                      
 </div>
 <br>
+<hr>
 
 ## Introdução
 Olá,
 
-Esse repositório corresponde aos projetos "Sistema Bancário com Python" da [DIO](https://www.dio.me/) (Digital Innovation One).
-
+Esse repositório corresponde ao projeto "Criando um Sistema Bancário com Python" da [DIO - Digital Innovation One](https://www.dio.me/).
 <hr>
 
 ## Objetivo
 
-### Desafio 01: Criando um Sistema Bancário com Python
-
 Neste projeto, tivemos a oportunidade de criar um Sistema Bancário em Python. 
 
-O objetivo é implementar três operações essenciais: depósito, saque e extrato. 
-
-O sistema será desenvolvido para um banco que busca monetizar suas operações. 
+O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações. 
 
 Durante o desafio, tivemos a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias. 
 
 Pudemos aprimorar as habilidades e demonstrar sua capacidade de desenvolver soluções práticas e eficientes.
 
-Obs: As regras do projeto, Criando um Sistema Bancário com Python, podem ser encontradas no arquivo: "Desafio.md"
+O projeto "Criando um Sistema Bancário com Python" oferece uma experiência prática de desenvolvimento de software financeiro. Os participantes construirão um sistema completo, abordando funcionalidades como criação de contas, transações e segurança. É uma oportunidade para aprimorar habilidades de programação Python e compreender conceitos financeiros e de segurança.
 
-<br><br>
+Obs: As regras do projeto, Criando um Sistema Bancário com Python, podem ser encontradas no arquivo: "desafio.md"
 
-### Desafio 02: Otimizando o Sistema Bancário com Funções Python
+Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
+<br>
+<hr>
 
-Neste desafio, tivemos a oportunidade de otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. 
+## Próximos passos
 
-O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. 
-
-Tivemos a chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. 
-
-Aplicamos conceitos avançados de programação e demonstrar sua habilidade em criar soluções mais elegantes e eficientes utilizando Python.
-
-Obs: As regras do projeto, Otimizando o Sistema Bancário com Funções Python, podem ser encontradas no arquivo: "Desafio_2.md"
+Continuar o evoluindo no estudo com Python para futuros projetos e aplicações. 
 <hr>
 
 ## Tecnologias Utilizadas
 
-<a style=display:flex><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" hspace="20"> Python</a>
-
-<hr>       
+<div>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="" height="80" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="" height="120" hspace="5"/>
+</div>
 
 ## Cursos Envolvidos
-### **Potência Tech powered by iFood | Ciência de Dados** 
-#### **Dominado o Python Para Ciência de Dados:**
 
-- Criando um Sistema Bancário com Python;
-- Otimizando o Sistema Bancário com Funções Python.
+### Bootcamp:
+
+- Potência Tech powered by iFood | Ciência de Dados;
+- Python AI Backend Developer.
+
+#### **Dominando Python e Suas Estruturas de Dados:**
+- Criando um Sistema Bancário com Python.
+<hr>
+
+## Repositório Original do GitHub
+Referência direta ao código-fonte original.
+
+- Guilherme Carvalho: [Guilherme Carvalho](https://github.com/guicarvalho)
+- Endereço DIO: [trilha-python-dio](https://github.com/digitalinnovationone/trilha-python-dio/blob/main/00%20-%20Fundamentos/desafio.py)
+<hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Guilherme Carvalho](https://github.com/guicarvalho) por compatilhar seu conhecimento. 
+Gostaria de agradecer a [DIO - Digital Innovation One](https://www.dio.me/) e ao instrutor [Guilherme Carvalho](https://github.com/guicarvalho) por compartilhar seu conhecimento.
